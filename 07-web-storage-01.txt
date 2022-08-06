@@ -1,0 +1,9 @@
+1. Apa itu localStorage ?
+2. Apa itu cookies ?
+3. Apa perbedaan antara localStorage dan sessionStorage ?
+
+Jawaban:
+
+1. localStorage adalah satu cara yang dapat digunakan untuk menyimpan data di browser. localStorage tidak memilik kadaluarsa yang mana data tidak akan terhapus walaupun browser di tutup.
+2. cookies adalah data infromasi yang kecil yang dihasilkan dan dikirimkan oleh server web ke browser. cookie memiliki waktu kadaluarsa yang dapat di tentukan oleh pengelola server.
+3. Data pada localStorage tidak memiliki kadaluarsa yang mana data tidak akan terhapus walau pun browser di tutup dan data yang di simpan dengan sessionStorage hanya tersimpan selama tab browser tidak di tutup.
